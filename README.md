@@ -1,5 +1,7 @@
 # Bomberman
-![Bomberman](https://imgs.search.brave.com/8CztCbixblm11bxsBVGInxRagrTWupbH3ugbyY2u3xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzAzLzIyMTQv/ZDViNjE0MDg3ZGMz/YWFkOGI1MzlhZjhl/Y2UzNTdhYWEzMzVk/NjE5MTlkN2MwNzM1/LnBuZw)
+<p align="center">
+  <img src="https://imgs.search.brave.com/8CztCbixblm11bxsBVGInxRagrTWupbH3ugbyY2u3xs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzAzLzIyMTQv/ZDViNjE0MDg3ZGMz/YWFkOGI1MzlhZjhl/Y2UzNTdhYWEzMzVk/NjE5MTlkN2MwNzM1/LnBuZw" alt="Bomberman">
+</p>
 
 Bomberman es un juego inspirado en el clásico de estrategia y acción. El jugador explora un mundo subterráneo lleno de túneles y cavernas, colocando bombas estratégicamente para abrir caminos, derrotar enemigos y construir bases seguras.
 ## Historia
